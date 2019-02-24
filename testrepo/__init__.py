@@ -1,1 +1,1 @@
-from main import addition
+from .main import addition
